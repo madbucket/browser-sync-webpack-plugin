@@ -1,6 +1,6 @@
 {
-  "name": "browser-sync-webpack-plugin",
-  "version": "2.3.0",
+  "name": "browser-sync-v3-webpack-plugin",
+  "version": "0.0.1",
   "description": "BrowserSync and Webpack integration",
   "keywords": [
     "webpack",
@@ -20,14 +20,14 @@
     "standard": "^11.0.1"
   },
   "peerDependencies": {
-    "browser-sync": "^2",
+    "browser-sync": "^2 || ^3",
     "webpack": "^1 || ^2 || ^3 || ^4 || ^5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Va1/browser-sync-webpack-plugin.git"
+    "url": "https://github.com/madbucket/browser-sync-webpack-plugin.git"
   },
-  "homepage": "https://github.com/Va1/browser-sync-webpack-plugin",
+  "homepage": "https://github.com/madbucket/browser-sync-webpack-plugin",
   "author": "Valentyn Barmashyn <barmashyn.val@gmail.com>",
   "license": "MIT",
   "private": false,
