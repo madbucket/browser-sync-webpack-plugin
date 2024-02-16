@@ -7,13 +7,13 @@ Easily use BrowserSync in your Webpack project.
 ## Install:
 
 ```bash
-$ npm install --save-dev browser-sync-webpack-plugin
+$ npm install --save-dev browser-sync-v3-webpack-plugin
 ```
 
 or
 
 ```bash
-$ yarn add --dev browser-sync-webpack-plugin
+$ yarn add --dev browser-sync-v3-webpack-plugin
 ```
 
 With release of 2.0.0 the plugin is expected to be used in Node v4+ environment.
