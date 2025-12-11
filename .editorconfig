@@ -11,3 +11,6 @@ indent_style = space
 
 [*.{js,json,md}]
 indent_size = 2
+
+[*.sh]
+indent_style = tab
